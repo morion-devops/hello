@@ -1,3 +1,3 @@
-# devops-hello
+# Simple python HelloWorld application
 
-Hello world application for [devops live portfolio](https://github.com/morion-devops/devops-live-portfolio).
+Part of [my devops portfolio](https://morion-devops.github.io/).
