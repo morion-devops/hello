@@ -1,0 +1,16 @@
+
+registry_address : none # you should set this variable via --set param
+
+service:
+  port: 80
+  targetPort: 5000
+
+replicas: 2
+
+requests:
+  cpu: 80m
+  memory: 64Mi
+
+limits:
+  cpu: 100m
+  memory: 128Mi
